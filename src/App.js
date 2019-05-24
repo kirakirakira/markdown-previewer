@@ -1,6 +1,5 @@
 import React from 'react';
 import ControlledInput from './ControlledInput';
-import marked from 'marked';
 
 function App() {
   return (
